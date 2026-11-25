@@ -1,16 +1,14 @@
-## Hi there 👋
+# Merhaba, ben Cankağan 👋
 
-<!--
-**Cankagan1/Cankagan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Konya Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.
+Sensör verisi, hedef takibi ve sistem yazılımı ile ilgileniyorum.
 
-Here are some ideas to get you started:
+## Öne çıkan projeler
+- [coklu-hedef-takip](https://github.com/Cankagan1/coklu-hedef-takip): Gürültülü radar ölçümlerinden birden fazla hedefi takip eden sistem (C++, Kalman filtresi)
+- [hedef-takip](https://github.com/Cankagan1/hedef-takip): Kalman filtresi ile tek hedef takibi ve yöntem karşılaştırması (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknolojiler
+C · C++ · Python · Java · JavaScript · Docker · Git
+
+## İletişim
+[LinkedIn](https://www.linkedin.com/in/canka%C4%9Fan-yi%C4%9Fit-5187b527b) · can05ygt@gmail.com
